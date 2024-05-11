@@ -47,8 +47,8 @@ To develop a convolutional autoencoder for image denoising application.
 
 ## PROGRAM
 ```
-Developed by: NAVIN KUMAR J
-Register no: 212222240071
+Developed by: Aldrin Lijo J E
+Register no: 212222240007
 ```
 
 ### Import necessary libraries
